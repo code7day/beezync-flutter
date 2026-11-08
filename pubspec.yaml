@@ -1,5 +1,7 @@
 name: beezync_sdk
 description: Cliente Dart/Flutter para Beezync (push y tiempo real).
+repository: https://github.com/code7day/beezync-flutter
+homepage: https://beezync.com
 version: 0.1.0
 
 environment:

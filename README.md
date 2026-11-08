@@ -125,3 +125,7 @@ BEEZYNC_INTEGRATION=1 BASE_URL=http://127.0.0.1:8099 APP_ID=... PUBLIC_KEY=pk_..
 ```
 
 Registra un dispositivo, conecta, publica, envía un push por `ws`, reporta recibido y clic, y comprueba los contadores con `GET /v1/api/notifications/{id}`.
+
+## Autoría y licencia
+
+Beezync es un proyecto de Eduardo Flores. El servicio comercial de Beezync es respaldado y operado por ITM Soluciones Tecnológicas e Inversiones S.A.C. Este SDK se distribuye con licencia MIT (ver `LICENSE`).
