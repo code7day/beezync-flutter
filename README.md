@@ -6,12 +6,15 @@ Sigue la especificación común de `Api-Service/docs/SDK_SPEC.md`.
 
 ## Instalación
 
-Mientras el paquete no esté publicado, se usa como dependencia local en el `pubspec.yaml` de la app:
+```sh
+flutter pub add beezync_sdk
+```
+
+O agrégalo a tu `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  beezync_sdk:
-    path: ../../../SDKs/flutter   # ajusta la ruta relativa
+  beezync_sdk: ^0.1.0
 ```
 
 Luego `flutter pub get`.
